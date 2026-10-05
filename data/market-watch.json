@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-30T15:16:39.159604-04:00",
-  "schema_version": 1,
-  "signals": [],
-  "signals_as_of": null
+  "generated_at": "2026-10-05T17:42:03.155111-04:00",
+  "signals": [
+    {
+      "rank": 1,
+      "thesis": "An HN post reports that Opus 5.5 AI agents identified two room-temperature magnetic semiconductor candidates, signaling that frontier AI models are being used to accelerate materials discovery. This points to growing claims of AI-driven scientific breakthroughs, which could influence both AI model valuations and materials/semiconductor research investment narratives.",
+      "title": "Anthropic's Opus 5.5 agents flag novel magnetic semiconductor candidates"
+    },
+    {
+      "rank": 2,
+      "thesis": "A newly announced Web Search API is generating significant discussion, suggesting a notable product move in the AI/search tooling space that could intensify competition among AI and search providers. The scale of engagement indicates developers see it as a meaningful shift in how search capabilities are integrated into applications.",
+      "title": "New Web Search API launch draws major developer attention"
+    }
+  ]
 }
