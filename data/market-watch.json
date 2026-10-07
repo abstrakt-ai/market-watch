@@ -1,4 +1,20 @@
 {
-  "generated_at": "2026-10-07T15:22:21.866218-04:00",
-  "signals": []
+  "generated_at": "2026-10-07T18:19:01.010971-04:00",
+  "signals": [
+    {
+      "rank": 1,
+      "thesis": "Anthropic released Claude Haiku 5.5 and OpenAI released GPT-6 with a new 'Intelligent UI' on the same day, both drawing heavy attention, while separately Meta and Microsoft are reported to be taking steps to reduce employee usage of Claude. Together these signal escalating competitive and security tension among the major AI labs as frontier model releases accelerate.",
+      "title": "AI lab competition intensifies: Anthropic and OpenAI ship new models as Meta, Microsoft curb Claude use"
+    },
+    {
+      "rank": 2,
+      "thesis": "Visa, Mastercard and major banks are facing fresh litigation alleging anticompetitive card fees, adding legal and regulatory risk for the dominant payment networks and their bank partners.",
+      "title": "New antitrust litigation targets Visa, Mastercard and major banks over card fees"
+    },
+    {
+      "rank": 3,
+      "thesis": "OpenAI published a repository sharing its AI progress in mathematics, drawing significant attention as a signal of the lab's push into formal math reasoning capabilities, an area closely watched as a proxy for broader reasoning advances in frontier models.",
+      "title": "OpenAI publishes math research progress via GitHub"
+    }
+  ]
 }
