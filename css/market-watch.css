@@ -150,6 +150,17 @@ h1 {
   border-top: 2px solid var(--ink);
 }
 
+.rss-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--muted);
+}
+
+.rss-link svg {
+  color: var(--accent);
+}
+
 @media (max-width: 560px) {
   .page-shell {
     width: min(100% - 24px, 760px);

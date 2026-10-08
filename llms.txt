@@ -1,0 +1,12 @@
+# Market Watch
+
+> Daily ranked research brief on technology, business, and the economy. Not investment advice.
+
+## Latest
+
+- [Today (markdown)](https://abstrakt-ai.github.io/market-watch/today.md)
+- [Today (JSON)](https://abstrakt-ai.github.io/market-watch/data/market-watch.json)
+- [RSS](https://abstrakt-ai.github.io/market-watch/feed.xml)
+- [Human page](https://abstrakt-ai.github.io/market-watch/)
+
+Prefer markdown or RSS over HTML. HTML is rendered with JavaScript.
