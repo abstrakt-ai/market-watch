@@ -1,12 +1,9 @@
-# Market Watch — 2026-10-08
+# Market Watch — 2026-10-09
 
-Updated: 2026-10-08T15:16:31.510936-04:00
+Updated: 2026-10-09T09:17:44.116143-04:00
 
-1. **OpenAI under credibility pressure: revenue shortfall and withdrawn math results**  
-   A report says OpenAI's annualised revenue is $20B below what it previously signalled, and OpenAI withdrew three mathematical results it had published days earlier as AI progress in mathematics. This follows the GPT-6 launch and the math preprints, so both its financial and its technical claims are being questioned just as the company is promoting its latest model.
+1. **OpenAI retracts three math results after announcing AI math progress**  
+   OpenAI withdrew three mathematical results, days after publishing its "Sharing AI progress in mathematics" repository and shortly after reports of a breakthrough on hard math problems. The retraction undercuts the capability claims around its new models. It lands alongside a report that annualised revenue is $20B below earlier signals, so credibility on both technical and financial claims is in question.
 
-2. **Microsoft suspended from a green card program amid Claude usage curbs**  
-   The Trump administration is reportedly suspending Microsoft from a green card program, a possible constraint on its ability to hire and retain skilled foreign workers. This comes a day after reports that Meta and Microsoft are reducing employee use of Claude AI, so Microsoft faces both policy and AI-tooling questions.
-
-3. **Anthropic ships Claude Haiku 5.5**  
-   Anthropic released Claude Haiku 5.5, a new small-model release that lands right after OpenAI's GPT-6 launch. It adds competitive pressure on model pricing and capability, particularly as OpenAI's revenue claims are under scrutiny.
+2. **DeepSeek 4.1 Flash draws attention as a low-cost rival**  
+   A widely discussed question is why the industry is not reacting more strongly to DeepSeek 4.1 Flash. This suggests a possible under-appreciated competitive and pricing threat to US frontier labs, at a time when OpenAI is facing questions about its revenue and claims.
