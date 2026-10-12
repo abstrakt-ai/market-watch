@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-11T08:50:45.287394-04:00",
+  "generated_at": "2026-10-12T11:16:05.013130-04:00",
   "signals": [
     {
       "rank": 1,
-      "thesis": "A report says a third Yandex Cloud data center has been hit. This suggests a run of incidents at the Russian cloud provider's facilities, though the item does not say what the cause or the service impact was. If the pattern holds, it points to rising operational risk for Yandex Cloud customers and for Russian digital infrastructure more broadly.",
-      "title": "Third Yandex Cloud data center reported hit"
+      "thesis": "A report alleges Deloitte falsified documents to help evade tax on Roman Abramovich's wealth. If substantiated, it exposes Deloitte to regulatory, legal and reputational risk across the Big Four audit and advisory industry, and adds scrutiny on professional-services firms that structure assets for sanctioned or high-profile clients. Details are thin in the supplied item, so follow-up from regulators, Deloitte's response and any tax-authority action are the key things to watch.",
+      "title": "Deloitte accused of falsifying documents to evade tax on Abramovich wealth"
     }
   ]
 }
