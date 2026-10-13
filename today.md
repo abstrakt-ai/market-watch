@@ -1,6 +1,15 @@
-# Market Watch — 2026-10-12
+# Market Watch — 2026-10-13
 
-Updated: 2026-10-12T11:16:05.013130-04:00
+Updated: 2026-10-13T10:06:52.406150-04:00
 
-1. **Deloitte accused of falsifying documents to evade tax on Abramovich wealth**  
-   A report alleges Deloitte falsified documents to help evade tax on Roman Abramovich's wealth. If substantiated, it exposes Deloitte to regulatory, legal and reputational risk across the Big Four audit and advisory industry, and adds scrutiny on professional-services firms that structure assets for sanctioned or high-profile clients. Details are thin in the supplied item, so follow-up from regulators, Deloitte's response and any tax-authority action are the key things to watch.
+1. **CFTC staff reportedly told to retract analysis of suspicious oil trades**  
+   CFTC staff were reportedly told to retract their analysis of suspicious oil trades. That raises questions about oversight of energy-market trading at a time when oil is sensitive to the Iran war, tanker attacks and slowing flows through the Strait of Hormuz. Recent FT briefings show oil prices jumping on those disruptions and Trump saying the US will not strike Iran before the midterms, so any suggestion of improper trading around such news matters for oil and regulatory risk.
+
+2. **Character.ai files for bankruptcy**  
+   Character.ai has filed for bankruptcy. It is a concrete failure of a prominent consumer AI chatbot company, and it suggests that funding or business-model pressure on consumer-facing AI apps is real. Investors and AI peers will likely watch for the cause, creditor outcomes, and what happens to its models and users.
+
+3. **Hackers trigger auto-defrost in European supermarket fridges**  
+   Hackers reportedly activated automatic defrosting in supermarket refrigeration systems across Europe, with coverage from Reuters, the BBC and Le Monde. A prior incident involving military commissary freezers in August 2026 points to a pattern of attacks on refrigeration controllers. That raises operational and inventory-loss risk for grocers and the food cold chain, and may draw regulatory attention to industrial-control security.
+
+4. **Intel unveils D270 AI accelerator with up to 480 GB LPDDR5X**  
+   Intel's D270 GPU AI accelerator offers up to 480 GB of LPDDR5X memory. That points to a capacity-heavy, lower-cost-memory approach to AI inference, which could challenge incumbent accelerators on memory per dollar. Pricing, availability and customer adoption will show whether it makes a dent in the AI hardware market.
