@@ -3,11 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="A daily market research brief.">
+    <meta name="description" content="The top market signals, every weekday morning: a brief on tech, business and the economy.">
     <meta name="theme-color" content="#f4f7f6">
     <title>Market Watch</title>
     <link rel="icon" href="https://avatars.githubusercontent.com/u/337943099?s=200&v=4">
-    <link rel="alternate" type="application/rss+xml" title="Market Watch daily brief" href="feed.xml">
+    <link rel="alternate" type="application/rss+xml" title="Market Watch: daily market signals" href="feed.xml">
     <link rel="alternate" type="text/markdown" title="Today’s brief (markdown)" href="today.md">
     <link rel="describedby" href="llms.txt">
     <link rel="stylesheet" href="css/market-watch.css">
@@ -15,13 +15,13 @@
   <body>
     <main class="page-shell">
       <header class="masthead">
-        <p class="eyebrow">Daily research brief</p>
+        <p class="eyebrow">Daily market signals</p>
         <h1>Market Watch</h1>
       </header>
 
-      <section class="results" aria-label="Current research results">
+      <section class="results" aria-label="Current market signals">
         <ul id="signal-list" class="signal-list" hidden></ul>
-        <p id="empty-state" class="empty-state">No current research results.</p>
+        <p id="empty-state" class="empty-state">No signals yet.</p>
       </section>
 
       <footer class="market-watch-footer">
@@ -112,7 +112,7 @@
           emptyState.hidden = renderedCount > 0;
           refreshTime.textContent = formatRefreshTime(brief.generated_at);
         } catch {
-          emptyState.textContent = "Current research results are unavailable.";
+          emptyState.textContent = "Market signals are unavailable right now.";
           signalList.hidden = true;
           refreshTime.textContent = "Last updated: unavailable.";
         }
