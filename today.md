@@ -1,15 +1,9 @@
-# Market Watch — 2026-10-13
+# Market Watch — 2026-10-14
 
-Updated: 2026-10-13T10:06:52.406150-04:00
+Updated: 2026-10-14T07:06:41.446287-04:00
 
-1. **CFTC staff reportedly told to retract analysis of suspicious oil trades**  
-   CFTC staff were reportedly told to retract their analysis of suspicious oil trades. That raises questions about oversight of energy-market trading at a time when oil is sensitive to the Iran war, tanker attacks and slowing flows through the Strait of Hormuz. Recent FT briefings show oil prices jumping on those disruptions and Trump saying the US will not strike Iran before the midterms, so any suggestion of improper trading around such news matters for oil and regulatory risk.
+1. **Gemini 4 Argon and Robotics variant released**  
+   Gemini 4 Argon has been unveiled alongside a dedicated Gemini 4 Argon for Robotics release, expanding the model family into robotics applications.
 
-2. **Character.ai files for bankruptcy**  
-   Character.ai has filed for bankruptcy. It is a concrete failure of a prominent consumer AI chatbot company, and it suggests that funding or business-model pressure on consumer-facing AI apps is real. Investors and AI peers will likely watch for the cause, creditor outcomes, and what happens to its models and users.
-
-3. **Hackers trigger auto-defrost in European supermarket fridges**  
-   Hackers reportedly activated automatic defrosting in supermarket refrigeration systems across Europe, with coverage from Reuters, the BBC and Le Monde. A prior incident involving military commissary freezers in August 2026 points to a pattern of attacks on refrigeration controllers. That raises operational and inventory-loss risk for grocers and the food cold chain, and may draw regulatory attention to industrial-control security.
-
-4. **Intel unveils D270 AI accelerator with up to 480 GB LPDDR5X**  
-   Intel's D270 GPU AI accelerator offers up to 480 GB of LPDDR5X memory. That points to a capacity-heavy, lower-cost-memory approach to AI inference, which could challenge incumbent accelerators on memory per dollar. Pricing, availability and customer adoption will show whether it makes a dent in the AI hardware market.
+2. **Ledger confirms hidden spy chip implant behind hardware wallet crypto thefts**  
+   Ledger confirmed that a hidden spy chip implant in compromised hardware wallets, including the Ledger Nano X, is behind recent cryptocurrency thefts. The hardware tampering highlights supply-chain and physical security risks for self-custody crypto devices.
