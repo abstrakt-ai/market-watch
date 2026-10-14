@@ -1,9 +1,9 @@
-# market-watch
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fabstrakt-ai.github.io%2Fmarket-watch%2F&logo=googlechrome&logoColor=white)](https://abstrakt-ai.github.io/market-watch/)
+# Market Watch
+
 [![RSS](https://img.shields.io/badge/rss-subscribe-ff9900?logo=rss&logoColor=white)](https://abstrakt-ai.github.io/market-watch/feed.xml)
 [![pages-build-deployment](https://github.com/abstrakt-ai/market-watch/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/abstrakt-ai/market-watch/actions/workflows/pages/pages-build-deployment)
 
-Daily highlights on technology, business and economics.
+The top market signals, every weekday morning: a brief on tech, business and the economy.
 
 **Live site:** https://abstrakt-ai.github.io/market-watch/
 
@@ -11,25 +11,22 @@ Daily highlights on technology, business and economics.
 
 ## What is Market Watch?
 
-Market Watch is a static web page that presents a daily research brief on what is happening in the world of technology, business and the economy.
+Market Watch is a weekday research brief on technology, business and the economy. It distills news and tech community discussion into the few signals that matter most, each with a short explanation of why it matters and how it connects to recent events. Produced with AI-assisted research.
 
-- **Stay current.** Keep track of recent events across technology, business and the economy.
-- **Spot what's emerging.** Identify and highlight significant emerging events and shifting signals as they develop.
-- **Automated daily briefings.** Content is produced by an AI agentic workflow that watches for developments and summarizes them into a daily briefing.
+## Channels
 
-## Subscribe and machine-readable feeds
-The HTML page loads JSON in the browser. For readers and agents, prefer these files (no JavaScript):
-| Format | URL |
+One brief, published wherever you read:
+
+| Channel | URL |
 | --- | --- |
+| Web | https://abstrakt-ai.github.io/market-watch/ |
 | RSS | https://abstrakt-ai.github.io/market-watch/feed.xml |
 | Markdown (today) | https://abstrakt-ai.github.io/market-watch/today.md |
 | JSON (today) | https://abstrakt-ai.github.io/market-watch/data/market-watch.json |
-| Agent index | https://abstrakt-ai.github.io/market-watch/llms.txt |
 
-Add the live site URL or `feed.xml` to a feed reader to subscribe. Each RSS item is one daily highlight.
+Add the live site URL or `feed.xml` to a feed reader to subscribe. Each RSS item is one signal.
 
-Agents: start at [`llms.txt`](https://abstrakt-ai.github.io/market-watch/llms.txt), then fetch markdown or RSS, not the HTML.
-
+Agents: start at [`llms.txt`](https://abstrakt-ai.github.io/market-watch/llms.txt), then fetch markdown or RSS, not the HTML. The HTML page loads JSON in the browser.
 
 ## Disclaimer
 
