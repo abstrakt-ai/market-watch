@@ -3,7 +3,7 @@
 [![RSS](https://img.shields.io/badge/rss-subscribe-ff9900?logo=rss&logoColor=white)](https://abstrakt-ai.github.io/market-watch/feed.xml)
 [![pages-build-deployment](https://github.com/abstrakt-ai/market-watch/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/abstrakt-ai/market-watch/actions/workflows/pages/pages-build-deployment)
 
-The top market signals, every weekday morning: a brief on tech, business and the economy.
+The top market signals, every morning: a brief on tech, business and the economy.
 
 **Live site:** https://abstrakt-ai.github.io/market-watch/
 
@@ -11,7 +11,7 @@ The top market signals, every weekday morning: a brief on tech, business and the
 
 ## What is Market Watch?
 
-Market Watch is a weekday research brief on technology, business and the economy. It distills news and tech community discussion into the few signals that matter most, each with a short explanation of why it matters and how it connects to recent events. Produced with AI-assisted research.
+Market Watch is a daily research brief on technology, business and the economy. It distills news and tech community discussion into the few signals that matter most, each with a short explanation of why it matters and how it connects to recent events. Produced with AI-assisted research.
 
 ## Channels
 
