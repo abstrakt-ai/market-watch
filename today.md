@@ -1,3 +1,6 @@
-# Market Watch — 2026-10-15
+# Market Watch — 2026-10-16
 
-Updated: 2026-10-15T07:07:00.125237-04:00
+Updated: 2026-10-16T08:42:08.162354-04:00
+
+1. **Meta releases Muse Spark Open AI model**  
+   Meta launched its Muse Spark Open AI model, publishing Muse-Spark-Open-816B-A42B on Hugging Face. The release follows Mark Zuckerberg's recent statement that Meta has caught up with rivals at the AI frontier and coincides with new Meta commercial terms that experts say allow the scraping of news sites.
